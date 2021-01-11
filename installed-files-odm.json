@@ -1,0 +1,52 @@
+[
+  {
+    "SHA256": "fe0ee9baadbd2214c98f9ae71d36657d3cc4dbf3a130f64d3ebf80973c556bce",
+    "Name": "/odm/etc/selinux/precompiled_sepolicy",
+    "Size": 515189
+  },
+  {
+    "SHA256": "7ca8b140436ae22b7c68f015e1e3872d2c495a5d96a6e2746fe81b68a34b7211",
+    "Name": "/odm/etc/build.prop",
+    "Size": 879
+  },
+  {
+    "SHA256": "80e78b3a5b71a5101db3180c2db873f2756be516c8246cf6b2d628e6d64cb99b",
+    "Name": "/odm/etc/NOTICE.xml.gz",
+    "Size": 777
+  },
+  {
+    "SHA256": "c6769832d61470c5ca163dbddfb5957c72340ed9239f8c35c36e47579e6e53ce",
+    "Name": "/odm/etc/selinux/precompiled_sepolicy.system_ext_sepolicy_and_mapping.sha256",
+    "Size": 65
+  },
+  {
+    "SHA256": "38acb15d02d5ac0f2a2789602e9df950c380d2799b4bdb59394e4eeabdd3a662",
+    "Name": "/odm/etc/selinux/precompiled_sepolicy.product_sepolicy_and_mapping.sha256",
+    "Size": 65
+  },
+  {
+    "SHA256": "e0203e2356c3f69daee39b201f3af69e6e322fcba2966e38fba49b2c70eeaeb3",
+    "Name": "/odm/etc/selinux/precompiled_sepolicy.plat_sepolicy_and_mapping.sha256",
+    "Size": 65
+  },
+  {
+    "SHA256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "Name": "/odm/etc/passwd",
+    "Size": 0
+  },
+  {
+    "SHA256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "Name": "/odm/etc/group",
+    "Size": 0
+  },
+  {
+    "SHA256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "Name": "/odm/etc/fs_config_files",
+    "Size": 0
+  },
+  {
+    "SHA256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "Name": "/odm/etc/fs_config_dirs",
+    "Size": 0
+  }
+]

@@ -1,0 +1,5 @@
+     1840168  /ramdisk/init
+        2521  /ramdisk/fstab.exynos9611
+        1032  /ramdisk/avb/s-gsi.avbpubkey
+        1032  /ramdisk/avb/r-gsi.avbpubkey
+        1032  /ramdisk/avb/q-gsi.avbpubkey

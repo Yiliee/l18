@@ -1,0 +1,27 @@
+[
+  {
+    "SHA256": "619239402c4c3bf887299bb66a52325125de5e7820a965f7e331510059805051",
+    "Name": "/ramdisk/init",
+    "Size": 1840168
+  },
+  {
+    "SHA256": "3529bf218768e9e2049d9def0ba5c13230b38a2382435ecaff683f8dc3f17b64",
+    "Name": "/ramdisk/fstab.exynos9611",
+    "Size": 2521
+  },
+  {
+    "SHA256": "ec60e13d92331e2c2d5d1372a5d7f2131861dc602815fd87c0637d14790b4538",
+    "Name": "/ramdisk/avb/s-gsi.avbpubkey",
+    "Size": 1032
+  },
+  {
+    "SHA256": "4706b8d2ffd46c5759d9431b8bf95f5c0544f4f6c87bbe35ff591325eb1783f5",
+    "Name": "/ramdisk/avb/r-gsi.avbpubkey",
+    "Size": 1032
+  },
+  {
+    "SHA256": "07b37325316fd483765d474aafcaca908b4de4773e16ed87aed415c15f71fb98",
+    "Name": "/ramdisk/avb/q-gsi.avbpubkey",
+    "Size": 1032
+  }
+]

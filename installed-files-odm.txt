@@ -1,0 +1,10 @@
+      515189  /odm/etc/selinux/precompiled_sepolicy
+         879  /odm/etc/build.prop
+         777  /odm/etc/NOTICE.xml.gz
+          65  /odm/etc/selinux/precompiled_sepolicy.system_ext_sepolicy_and_mapping.sha256
+          65  /odm/etc/selinux/precompiled_sepolicy.product_sepolicy_and_mapping.sha256
+          65  /odm/etc/selinux/precompiled_sepolicy.plat_sepolicy_and_mapping.sha256
+           0  /odm/etc/passwd
+           0  /odm/etc/group
+           0  /odm/etc/fs_config_files
+           0  /odm/etc/fs_config_dirs
